@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/1528-ezhil/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1528-ezhil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [0643-maximum-average-subarray-i](https://github.com/1528-ezhil/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Simulation
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/1528-ezhil/Leetcode/tree/master/0344-reverse-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/1528-ezhil/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
