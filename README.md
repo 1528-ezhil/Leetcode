@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/1528-ezhil/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1528-ezhil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [0643-maximum-average-subarray-i](https://github.com/1528-ezhil/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0053-maximum-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0053-maximum-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/1528-ezhil/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
