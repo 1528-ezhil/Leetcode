@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1528-ezhil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [0643-maximum-average-subarray-i](https://github.com/1528-ezhil/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0053-maximum-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -52,8 +53,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
