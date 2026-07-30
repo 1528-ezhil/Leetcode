@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0238-product-of-array-except-self](https://github.com/1528-ezhil/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0162-find-peak-element](https://github.com/1528-ezhil/Leetcode/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/1528-ezhil/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1528-ezhil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/1528-ezhil/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/1528-ezhil/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/1528-ezhil/Leetcode/tree/master/0162-find-peak-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/1528-ezhil/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/1528-ezhil/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
