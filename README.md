@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0238-product-of-array-except-self](https://github.com/1528-ezhil/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0162-find-peak-element](https://github.com/1528-ezhil/Leetcode/tree/master/0162-find-peak-element) |
 ## Simulation
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/1528-ezhil/Leetcode/tree/master/0141-linked-list-cycle) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/1528-ezhil/Leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
