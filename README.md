@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/1528-ezhil/Leetcode/tree/master/0015-3sum) |
 | [0011-container-with-most-water](https://github.com/1528-ezhil/Leetcode/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/1528-ezhil/Leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/1528-ezhil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/1528-ezhil/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/1528-ezhil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/1528-ezhil/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/1528-ezhil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/1528-ezhil/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/1528-ezhil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/1528-ezhil/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/1528-ezhil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting Sort
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/1528-ezhil/Leetcode/tree/master/0283-move-zeroes) |
 | [0015-3sum](https://github.com/1528-ezhil/Leetcode/tree/master/0015-3sum) |
 | [0011-container-with-most-water](https://github.com/1528-ezhil/Leetcode/tree/master/0011-container-with-most-water) |
+| [0349-intersection-of-two-arrays](https://github.com/1528-ezhil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/1528-ezhil/Leetcode/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/1528-ezhil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
