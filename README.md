@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/1528-ezhil/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0162-find-peak-element](https://github.com/1528-ezhil/Leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/1528-ezhil/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/1528-ezhil/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Simulation
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/1528-ezhil/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0125-valid-palindrome](https://github.com/1528-ezhil/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/1528-ezhil/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/1528-ezhil/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## String
 |  |
 | ------- |
