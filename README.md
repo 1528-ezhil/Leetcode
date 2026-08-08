@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/1528-ezhil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/1528-ezhil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0049-group-anagrams](https://github.com/1528-ezhil/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/1528-ezhil/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Simulation
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/1528-ezhil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0205-isomorphic-strings](https://github.com/1528-ezhil/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0049-group-anagrams](https://github.com/1528-ezhil/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/1528-ezhil/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/1528-ezhil/Leetcode/tree/master/0011-container-with-most-water) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/1528-ezhil/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
