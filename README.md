@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/1528-ezhil/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/1528-ezhil/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/1528-ezhil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0205-isomorphic-strings](https://github.com/1528-ezhil/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/1528-ezhil/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0006-zigzag-conversion](https://github.com/1528-ezhil/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0242-valid-anagram](https://github.com/1528-ezhil/Leetcode/tree/master/0242-valid-anagram) |
+| [0205-isomorphic-strings](https://github.com/1528-ezhil/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
