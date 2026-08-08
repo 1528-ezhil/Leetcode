@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/1528-ezhil/Leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/1528-ezhil/Leetcode/tree/master/0283-move-zeroes) |
 | [0015-3sum](https://github.com/1528-ezhil/Leetcode/tree/master/0015-3sum) |
+| [0011-container-with-most-water](https://github.com/1528-ezhil/Leetcode/tree/master/0011-container-with-most-water) |
 ## Simulation
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/1528-ezhil/Leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/1528-ezhil/Leetcode/tree/master/0283-move-zeroes) |
 | [0015-3sum](https://github.com/1528-ezhil/Leetcode/tree/master/0015-3sum) |
+| [0011-container-with-most-water](https://github.com/1528-ezhil/Leetcode/tree/master/0011-container-with-most-water) |
 ## String
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/1528-ezhil/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/1528-ezhil/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
