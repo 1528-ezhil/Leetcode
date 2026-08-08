@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/1528-ezhil/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0049-group-anagrams](https://github.com/1528-ezhil/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/1528-ezhil/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0076-minimum-window-substring](https://github.com/1528-ezhil/Leetcode/tree/master/0076-minimum-window-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -86,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/1528-ezhil/Leetcode/tree/master/0242-valid-anagram) |
 | [0205-isomorphic-strings](https://github.com/1528-ezhil/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0049-group-anagrams](https://github.com/1528-ezhil/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/1528-ezhil/Leetcode/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/1528-ezhil/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0076-minimum-window-substring](https://github.com/1528-ezhil/Leetcode/tree/master/0076-minimum-window-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
