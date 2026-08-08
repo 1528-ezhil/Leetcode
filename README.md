@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/1528-ezhil/Leetcode/tree/master/0283-move-zeroes) |
 | [0015-3sum](https://github.com/1528-ezhil/Leetcode/tree/master/0015-3sum) |
 | [0011-container-with-most-water](https://github.com/1528-ezhil/Leetcode/tree/master/0011-container-with-most-water) |
+| [0217-contains-duplicate](https://github.com/1528-ezhil/Leetcode/tree/master/0217-contains-duplicate) |
 ## Simulation
 |  |
 | ------- |
@@ -39,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1528-ezhil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [0141-linked-list-cycle](https://github.com/1528-ezhil/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/1528-ezhil/Leetcode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1528-ezhil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/1528-ezhil/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0015-3sum](https://github.com/1528-ezhil/Leetcode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/1528-ezhil/Leetcode/tree/master/0217-contains-duplicate) |
 ## Counting Sort
 |  |
 | ------- |
