@@ -48,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/1528-ezhil/Leetcode/tree/master/0344-reverse-string) |
 | [0141-linked-list-cycle](https://github.com/1528-ezhil/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0125-valid-palindrome](https://github.com/1528-ezhil/Leetcode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/1528-ezhil/Leetcode/tree/master/0344-reverse-string) |
+| [0125-valid-palindrome](https://github.com/1528-ezhil/Leetcode/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
