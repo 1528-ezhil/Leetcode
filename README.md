@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/1528-ezhil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0049-group-anagrams](https://github.com/1528-ezhil/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/1528-ezhil/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/1528-ezhil/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/1528-ezhil/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/1528-ezhil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0049-group-anagrams](https://github.com/1528-ezhil/Leetcode/tree/master/0049-group-anagrams) |
+| [0977-squares-of-a-sorted-array](https://github.com/1528-ezhil/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/1528-ezhil/Leetcode/tree/master/0015-3sum) |
 | [0011-container-with-most-water](https://github.com/1528-ezhil/Leetcode/tree/master/0011-container-with-most-water) |
 | [0349-intersection-of-two-arrays](https://github.com/1528-ezhil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/1528-ezhil/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
