@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/1528-ezhil/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/1528-ezhil/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/1528-ezhil/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0560-subarray-sum-equals-k](https://github.com/1528-ezhil/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Simulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/1528-ezhil/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0076-minimum-window-substring](https://github.com/1528-ezhil/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/1528-ezhil/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0560-subarray-sum-equals-k](https://github.com/1528-ezhil/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/1528-ezhil/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/1528-ezhil/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
