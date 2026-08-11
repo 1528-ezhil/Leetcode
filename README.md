@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/1528-ezhil/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [0724-find-pivot-index](https://github.com/1528-ezhil/Leetcode/tree/master/0724-find-pivot-index) |
 | [0303-range-sum-query-immutable](https://github.com/1528-ezhil/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [2574-left-and-right-sum-differences](https://github.com/1528-ezhil/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/1528-ezhil/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [0724-find-pivot-index](https://github.com/1528-ezhil/Leetcode/tree/master/0724-find-pivot-index) |
 | [0303-range-sum-query-immutable](https://github.com/1528-ezhil/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [2574-left-and-right-sum-differences](https://github.com/1528-ezhil/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Linked List
 |  |
 | ------- |
