@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/1528-ezhil/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/1528-ezhil/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/1528-ezhil/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [0724-find-pivot-index](https://github.com/1528-ezhil/Leetcode/tree/master/0724-find-pivot-index) |
 ## Simulation
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/1528-ezhil/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/1528-ezhil/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/1528-ezhil/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [0724-find-pivot-index](https://github.com/1528-ezhil/Leetcode/tree/master/0724-find-pivot-index) |
 ## Linked List
 |  |
 | ------- |
