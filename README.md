@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/1528-ezhil/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/1528-ezhil/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [0724-find-pivot-index](https://github.com/1528-ezhil/Leetcode/tree/master/0724-find-pivot-index) |
+| [0303-range-sum-query-immutable](https://github.com/1528-ezhil/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Simulation
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/1528-ezhil/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/1528-ezhil/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [0724-find-pivot-index](https://github.com/1528-ezhil/Leetcode/tree/master/0724-find-pivot-index) |
+| [0303-range-sum-query-immutable](https://github.com/1528-ezhil/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Linked List
 |  |
 | ------- |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/1528-ezhil/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/1528-ezhil/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
