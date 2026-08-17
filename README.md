@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/1528-ezhil/Leetcode/tree/master/1046-last-stone-weight) |
 | [0506-relative-ranks](https://github.com/1528-ezhil/Leetcode/tree/master/0506-relative-ranks) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/1528-ezhil/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [0621-task-scheduler](https://github.com/1528-ezhil/Leetcode/tree/master/0621-task-scheduler) |
 ## Simulation
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1528-ezhil/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0268-missing-number](https://github.com/1528-ezhil/Leetcode/tree/master/0268-missing-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/1528-ezhil/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [0621-task-scheduler](https://github.com/1528-ezhil/Leetcode/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
@@ -93,10 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/1528-ezhil/Leetcode/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/1528-ezhil/Leetcode/tree/master/0506-relative-ranks) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/1528-ezhil/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [0621-task-scheduler](https://github.com/1528-ezhil/Leetcode/tree/master/0621-task-scheduler) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1528-ezhil/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [0621-task-scheduler](https://github.com/1528-ezhil/Leetcode/tree/master/0621-task-scheduler) |
 ## Two Pointers
 |  |
 | ------- |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/1528-ezhil/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/1528-ezhil/Leetcode/tree/master/1046-last-stone-weight) |
 | [0506-relative-ranks](https://github.com/1528-ezhil/Leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/1528-ezhil/Leetcode/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -193,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/1528-ezhil/Leetcode/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/1528-ezhil/Leetcode/tree/master/0621-task-scheduler) |
 ## Union-Find
 |  |
 | ------- |
