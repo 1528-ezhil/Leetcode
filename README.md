@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/1528-ezhil/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [2574-left-and-right-sum-differences](https://github.com/1528-ezhil/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [0219-contains-duplicate-ii](https://github.com/1528-ezhil/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1528-ezhil/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/1528-ezhil/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/1528-ezhil/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0219-contains-duplicate-ii](https://github.com/1528-ezhil/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1528-ezhil/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
