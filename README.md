@@ -51,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/1528-ezhil/Leetcode/tree/master/0136-single-number) |
 | [0119-pascals-triangle-ii](https://github.com/1528-ezhil/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0048-rotate-image](https://github.com/1528-ezhil/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/1528-ezhil/Leetcode/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/1528-ezhil/Leetcode/tree/master/1929-concatenation-of-array) |
+| [0054-spiral-matrix](https://github.com/1528-ezhil/Leetcode/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,4 +187,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/1528-ezhil/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/1528-ezhil/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
