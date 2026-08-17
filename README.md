@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/1528-ezhil/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/1528-ezhil/Leetcode/tree/master/0054-spiral-matrix) |
 | [1046-last-stone-weight](https://github.com/1528-ezhil/Leetcode/tree/master/1046-last-stone-weight) |
+| [0506-relative-ranks](https://github.com/1528-ezhil/Leetcode/tree/master/0506-relative-ranks) |
 ## Simulation
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/1528-ezhil/Leetcode/tree/master/0049-group-anagrams) |
 | [0977-squares-of-a-sorted-array](https://github.com/1528-ezhil/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0268-missing-number](https://github.com/1528-ezhil/Leetcode/tree/master/0268-missing-number) |
+| [0506-relative-ranks](https://github.com/1528-ezhil/Leetcode/tree/master/0506-relative-ranks) |
 ## Counting Sort
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/1528-ezhil/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/1528-ezhil/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/1528-ezhil/Leetcode/tree/master/1046-last-stone-weight) |
+| [0506-relative-ranks](https://github.com/1528-ezhil/Leetcode/tree/master/0506-relative-ranks) |
 ## Quickselect
 |  |
 | ------- |
