@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/1528-ezhil/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0048-rotate-image](https://github.com/1528-ezhil/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/1528-ezhil/Leetcode/tree/master/0054-spiral-matrix) |
+| [1046-last-stone-weight](https://github.com/1528-ezhil/Leetcode/tree/master/1046-last-stone-weight) |
 ## Simulation
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/1528-ezhil/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0023-merge-k-sorted-lists](https://github.com/1528-ezhil/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/1528-ezhil/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/1528-ezhil/Leetcode/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
