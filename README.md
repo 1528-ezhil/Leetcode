@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1528-ezhil/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0268-missing-number](https://github.com/1528-ezhil/Leetcode/tree/master/0268-missing-number) |
 | [0136-single-number](https://github.com/1528-ezhil/Leetcode/tree/master/0136-single-number) |
+| [0119-pascals-triangle-ii](https://github.com/1528-ezhil/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/1528-ezhil/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Queue
 |  |
 | ------- |
