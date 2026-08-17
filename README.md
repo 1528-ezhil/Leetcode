@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/1528-ezhil/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/1528-ezhil/Leetcode/tree/master/0268-missing-number) |
+| [0048-rotate-image](https://github.com/1528-ezhil/Leetcode/tree/master/0048-rotate-image) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/1528-ezhil/Leetcode/tree/master/0268-missing-number) |
 | [0136-single-number](https://github.com/1528-ezhil/Leetcode/tree/master/0136-single-number) |
 | [0119-pascals-triangle-ii](https://github.com/1528-ezhil/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0048-rotate-image](https://github.com/1528-ezhil/Leetcode/tree/master/0048-rotate-image) |
 ## Simulation
 |  |
 | ------- |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/1528-ezhil/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/1528-ezhil/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
