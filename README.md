@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/1528-ezhil/Leetcode/tree/master/0054-spiral-matrix) |
 | [1046-last-stone-weight](https://github.com/1528-ezhil/Leetcode/tree/master/1046-last-stone-weight) |
 | [0506-relative-ranks](https://github.com/1528-ezhil/Leetcode/tree/master/0506-relative-ranks) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/1528-ezhil/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/1528-ezhil/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1528-ezhil/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0268-missing-number](https://github.com/1528-ezhil/Leetcode/tree/master/0268-missing-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/1528-ezhil/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/1528-ezhil/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0268-missing-number](https://github.com/1528-ezhil/Leetcode/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/1528-ezhil/Leetcode/tree/master/0506-relative-ranks) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/1528-ezhil/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Counting Sort
 |  |
 | ------- |
