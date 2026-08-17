@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0232-implement-queue-using-stacks](https://github.com/1528-ezhil/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/1528-ezhil/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/1528-ezhil/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0232-implement-queue-using-stacks](https://github.com/1528-ezhil/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Matrix
 |  |
 | ------- |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/1528-ezhil/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/1528-ezhil/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
