@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/1528-ezhil/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/1528-ezhil/Leetcode/tree/master/0268-missing-number) |
+| [0136-single-number](https://github.com/1528-ezhil/Leetcode/tree/master/0136-single-number) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/1528-ezhil/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1528-ezhil/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0268-missing-number](https://github.com/1528-ezhil/Leetcode/tree/master/0268-missing-number) |
+| [0136-single-number](https://github.com/1528-ezhil/Leetcode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
