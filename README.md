@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/1528-ezhil/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/1528-ezhil/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/1528-ezhil/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/1528-ezhil/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/1528-ezhil/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [0219-contains-duplicate-ii](https://github.com/1528-ezhil/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1528-ezhil/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0268-missing-number](https://github.com/1528-ezhil/Leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/1528-ezhil/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0219-contains-duplicate-ii](https://github.com/1528-ezhil/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/1528-ezhil/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0268-missing-number](https://github.com/1528-ezhil/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/1528-ezhil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0049-group-anagrams](https://github.com/1528-ezhil/Leetcode/tree/master/0049-group-anagrams) |
 | [0977-squares-of-a-sorted-array](https://github.com/1528-ezhil/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0268-missing-number](https://github.com/1528-ezhil/Leetcode/tree/master/0268-missing-number) |
 ## Counting Sort
 |  |
 | ------- |
@@ -149,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/1528-ezhil/Leetcode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/1528-ezhil/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0268-missing-number](https://github.com/1528-ezhil/Leetcode/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
