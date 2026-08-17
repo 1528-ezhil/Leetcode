@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/1528-ezhil/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/1528-ezhil/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0023-merge-k-sorted-lists](https://github.com/1528-ezhil/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/1528-ezhil/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/1528-ezhil/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/1528-ezhil/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/1528-ezhil/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/1528-ezhil/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0023-merge-k-sorted-lists](https://github.com/1528-ezhil/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 ## Quickselect
 |  |
 | ------- |
@@ -194,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/1528-ezhil/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/1528-ezhil/Leetcode/tree/master/0054-spiral-matrix) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/1528-ezhil/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/1528-ezhil/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
