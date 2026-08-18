@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/1528-ezhil/Leetcode/tree/master/0506-relative-ranks) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/1528-ezhil/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [0621-task-scheduler](https://github.com/1528-ezhil/Leetcode/tree/master/0621-task-scheduler) |
+| [0904-fruit-into-baskets](https://github.com/1528-ezhil/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Simulation
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/1528-ezhil/Leetcode/tree/master/0621-task-scheduler) |
 | [0424-longest-repeating-character-replacement](https://github.com/1528-ezhil/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/1528-ezhil/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/1528-ezhil/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/1528-ezhil/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/1528-ezhil/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/1528-ezhil/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/1528-ezhil/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
